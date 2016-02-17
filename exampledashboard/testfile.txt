@@ -1,7 +1,6 @@
-<<<<<<< Upstream, based on branch 'master' of https://github.com/andika2nd/exampledashboard.git
+
 ulangin 
 resolved conflict
-=======
+
 ulangin
 tambahan lagi
->>>>>>> bb2eb44 commit local  nih
