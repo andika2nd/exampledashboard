@@ -1,4 +1,9 @@
 albert test 1
 albert test 2
+<<<<<<< Upstream, based on branch 'master' of https://github.com/andika2nd/exampledashboard.git
 commit ketiga after overwrite from andika test 3
 test 4
+=======
+andika test 3
+andika test 4
+>>>>>>> a19cd70 commit againnn
