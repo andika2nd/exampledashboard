@@ -1,16 +1,2 @@
-albert test 1
-albert test 2
-<<<<<<< Upstream, based on branch 'master' of https://github.com/andika2nd/exampledashboard.git
-commit ketiga after overwrite from andika test 3
-test 4
-<<<<<<< HEAD
-test 5
-=======
-=======
-andika test 3
-andika test 4
->>>>>>> a19cd70 commit againnn
->>>>>>> branch 'master' of https://github.com/andika2nd/exampledashboard.git
-
-bingung nih
-ulangin sudah di push andika ke github, coba conflict
+ulangin 
+resolved conflict
