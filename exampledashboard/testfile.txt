@@ -13,3 +13,4 @@ andika test 4
 >>>>>>> branch 'master' of https://github.com/andika2nd/exampledashboard.git
 
 bingung nih
+ulangin sudah di push andika ke github, coba conflict
