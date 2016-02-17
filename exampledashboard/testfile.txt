@@ -8,6 +8,11 @@ resolved conflict
 
 ulangin
 tambahan lagi
+<<<<<<< Upstream, based on branch 'master' of https://github.com/andika2nd/exampledashboard.git
 >>>>>>> branch 'master' of https://github.com/andika2nd/exampledashboard.git
 
 sudah dibenerin
+=======
+
+addasdsd
+>>>>>>> 1c37932 commit abc
